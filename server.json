@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-10-10T21:02:25.737Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-10-10T21:01:21.737Z"
+    },
+    {
+      "id": 3,
+      "description": "Macã",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 0,
+      "createdAt": "2022-10-10T21:01:48.737Z"
+    },
+    {
+      "description": "Cream Cracker",
+      "price": 16,
+      "type": "outcome",
+      "category": "Alimentação",
+      "createdAt": "2022-10-14T13:25:28.582Z",
+      "id": 4
+    },
+    {
+      "description": "Jsjsjsj",
+      "price": 799,
+      "type": "outcome",
+      "category": "Shhssh",
+      "createdAt": "2022-10-14T13:26:44.959Z",
+      "id": 5
+    },
+    {
+      "description": "PlayStation 4",
+      "price": 2500,
+      "type": "outcome",
+      "category": "Tecnologia",
+      "createdAt": "2022-10-14T13:28:03.311Z",
+      "id": 6
+    }
+  ]
+}
