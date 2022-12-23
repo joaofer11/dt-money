@@ -13,6 +13,7 @@
 - [Sobre](#-sobre)
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
+- [Executando à aplicação](#-executando-à-aplicação)
 
 <br>
 
@@ -58,6 +59,44 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - [JSON Server](https://github.com/typicode/json-server)
 - [ESLint](https://eslint.org/)
 - [Vite](https://vitejs.dev/)
+
+<br>
+
+## 🚀 &nbsp;Executando à Aplicação
+
+Para executar à aplicação, você vai precisar instalar o [Node](https://nodejs.org/en/) e o [JSON Server(localmente/globalmente)](https://github.com/typicode/json-server)
+
+Feito isso, execute os passos a suguir:
+
+```bash
+# Abra um terminal, e tenha acesso a este repositório com o seguinte comando:
+$ git clone https://github.com/joaofer11/dt-money.git
+# ou use a opção de download e extraia manualmente.
+
+# Entre na pasta
+$ cd dt-money
+
+# Instale as dependências
+$ npm install
+
+# Instale o json-server localmente ou globalmente:
+# • Localmente
+$ npm install -D json-server
+
+# • Globalmente
+$ npm install -g json-server
+
+
+# Execute à aplicação:
+# • Na primeira aba
+$ npm run dev
+
+# • Na segunda aba
+$ npm run dev:server
+```
+
+**OBS.:** O **json-server** pode ser instalado tanto localmente quanto globalmente. Eu recomendo que 
+instale localmente caso não vá utilizar em muitos projetos futuros.
 
 ---
 
