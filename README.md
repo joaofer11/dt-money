@@ -8,10 +8,11 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaofer11/dt-money?color=E68320&style=flat">
 </p>
 
-<p align="center">
-  <a href="#-sobre">Sobre</a>&nbsp; |&nbsp;
-  <a href="#-tecnologias-e-ferramentas">Tecnologias e Ferramentas</a>
-</p>
+## 🔗 &nbsp;Tópicos
+
+- [Sobre](#-sobre)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
 
 <br>
 
